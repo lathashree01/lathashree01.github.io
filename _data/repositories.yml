@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - lathashree01
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - lathashree01/NLP_implementations
+  - lathashree01/classical_ml
+  - lathashree01/LlamaClinicalRE
+  - lathashree01/prompt-engineering-guides
+  - lathashree01/docker_for_ml
+

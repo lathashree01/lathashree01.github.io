@@ -69,7 +69,10 @@ ninja.data = [{
             window.location.href = "/blog/2023/sidebar-table-of-contents/";
           
         },
-      },{id: "news-started-my-new-job-at-vaarst-sister-company-of-rovco-where-i-build-highly-performant-and-scalable-ml-solutions-to-accelerate-key-processes-in-offshore-wind-energy-projects",
+      },{id: "news-actively-exploring-ml-engineering-roles-where-i-can-tackle-challenging-problems-build-robust-solutions-and-deploy-them-into-reliable-production-ready-systems-please-reach-out-to-me-on-linkedin",
+          title: 'Actively exploring ML engineering roles where I can tackle challenging problems, build robust...',
+          description: "",
+          section: "News",},{id: "news-started-my-new-job-at-vaarst-sister-company-of-rovco-where-i-build-highly-performant-and-scalable-ml-solutions-to-accelerate-key-processes-in-offshore-wind-energy-projects",
           title: 'Started my new job at Vaarst (sister company of Rovco), where I build...',
           description: "",
           section: "News",},{id: "projects-project-1",

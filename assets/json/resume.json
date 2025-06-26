@@ -25,7 +25,7 @@
       "startDate": "Nov 2023",
       "endDate": "May 2025",
       "summary": "Machine Learning engineer working on CV and LLM-based use cases to drive intelligent decision-making by building and deploying robust, scalable ML models for the offshore wind energy sector.",
-      "highlights": ["Productionise ML solutions","Computer Vision", "Sonar imagery", "Large Language Models"]
+      "highlights": ["Productionise ML solutions", "Computer Vision", "Sonar imagery", "Large Language Models"]
     }
   ],
   "education": [
@@ -37,7 +37,13 @@
       "studyType": "Masters in Science (MSc)",
       "startDate": "Oct 2022",
       "endDate": "Oct 2023",
-      "courses": ["Natural Language Processing", "Deep Learning", "Reinforcement Learning, Robot Learning", "Mathematics for Machine Learning", "Computer Vision, Machine Learning for Imaging"]
+      "courses": [
+        "Natural Language Processing",
+        "Deep Learning",
+        "Reinforcement Learning, Robot Learning",
+        "Mathematics for Machine Learning",
+        "Computer Vision, Machine Learning for Imaging"
+      ]
     },
     {
       "institution": "Visvesvaraya Technological University",
@@ -76,13 +82,12 @@
       "awarder": "Sony India Software Centre",
       "summary": "Awarded best performer of the Querter for making exceptional contribution to project deliverables inaddition to mentoring and facilitating junior engineers in development activities'"
     },
-        {
+    {
       "title": "Innovator of the Year",
       "date": "2019",
       "awarder": "Sony India Software Centre",
       "summary": "Awarded Innovator of the year for making a significant business impact through innovative ML application for Sony PlayStation'"
     }
-
   ],
   "certificates": [
     {
@@ -109,12 +114,7 @@
     {
       "name": "Machine Learning",
       "icon": "",
-      "keywords": [
-        "Computer Vision",
-        "NLP",
-        "Productionise ML",
-        "ML system design"
-      ]
+      "keywords": ["Computer Vision", "NLP", "Productionise ML", "ML system design"]
     }
   ],
   "references": [

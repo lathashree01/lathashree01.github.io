@@ -5,27 +5,37 @@
     "image": "",
     "email": "lathashree.harisha@gmail.com",
     "summary": "Machine learning engineer with experience in designing, developing and deploying machine learning solutions across various industries.",
+    "LinkedIn Url": "https://www.linkedin.com/in/lathashree/",
     "location": {
       "city": "London",
       "countryCode": "UK"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
   "work": [
     {
-      "name": "Beam(formerly Rovco/Vaarst)",
+      "name": "Beam (formerly Rovco/Vaarst)",
       "position": "Machine Learning Engineer",
       "url": "https://beam.global/",
       "startDate": "Nov 2023",
       "endDate": "May 2025",
       "summary": "Machine Learning engineer working on CV and LLM-based use cases to drive intelligent decision-making by building and deploying robust, scalable ML models for the offshore wind energy sector.",
-      "highlights": ["Productionise ML solutions", "Computer Vision", "Sonar imagery", "Large Language Models"]
+      "highlights": [
+        "Productionise ML solutions",
+        "ML Systems design",
+        "Computer Vision",
+        "Sonar imagery",
+        "Large Language Models",
+        "Leading projects end-to-end"
+      ]
+    },
+    {
+      "name": "Sony India Software Centre",
+      "position": "Senior Engineer - Machine Learning",
+      "url": "https://www.sonyindiasoftware.co.in/",
+      "startDate": "Aug 2018",
+      "endDate": "Aug 2022",
+      "summary": "Senior Engineer working on various critical business problems focused on building reliable and scalable ML systems. Worked on end-to-end ML life cycle from experimentation to productionsing of ML models.",
+      "highlights": ["Productionise ML solutions", "Computer Vision", "Language Models", "Stakeholder alignment", "Leadership", "Mentorship"]
     }
   ],
   "education": [
@@ -51,8 +61,8 @@
       "url": "http://www.sit.ac.in/",
       "area": "Computer Science and Engineering",
       "studyType": "Bachelor of Engineering",
-      "startDate": "Aug 2018",
-      "endDate": "Aug 2022"
+      "startDate": "Aug 2014",
+      "endDate": "Aug 2018"
     }
   ],
   "volunteer": [
@@ -101,7 +111,7 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Proficient",
       "icon": ""
     },
     {
@@ -112,9 +122,56 @@
   ],
   "interests": [
     {
-      "name": "Machine Learning",
+      "name": "NLP",
       "icon": "",
-      "keywords": ["Computer Vision", "NLP", "Productionise ML", "ML system design"]
+      "keywords": [
+        "Foundation Models - LLMs",
+        "Language models - BERT family",
+        "Pretraining and Fine-tuning",
+        "RAG Systems",
+        "Information Extraction and Retrieval Systems",
+        "Tokenisation and Embeddings",
+        "Domain Adaptation"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "icon": "",
+      "keywords": [
+        "Image Segmentation",
+        "Object Detection",
+        "Visual Anomaly Detection",
+        "Sonar Imagery (SSS, MBES)",
+        "Visual Transformers",
+        "Model Evaluation for CV models"
+      ]
+    },
+    {
+      "name": "MLOps",
+      "icon": "",
+      "keywords": [
+        "Model Monitoring",
+        "CI/CD for ML",
+        "Experiment Tracking",
+        "Data Versioning",
+        "Quantisation",
+        "Inference Optimisation",
+        "ONNX models",
+        "Containerisation (Docker/AWS ECS)",
+        "Distributed Training"
+      ]
+    },
+    {
+      "name": "Responsible AI",
+      "icon": "",
+      "keywords": [
+        "Bias and Fairness",
+        "Model Explainability",
+        "Governance and Documentation",
+        "Hallucination Mitigation",
+        "LLM Guardrails",
+        "Evaluation with LLM-as-a-judge"
+      ]
     }
   ],
   "references": [

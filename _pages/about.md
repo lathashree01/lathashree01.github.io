@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Machine Learning Engineer | Imperial Postgraduate | Being better than yesterday | 
+subtitle: Machine Learning Engineer | Imperial Postgraduate | Being better than yesterday |
 profile:
   align: right
   image: prof_pic.jpg

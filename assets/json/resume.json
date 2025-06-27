@@ -9,7 +9,7 @@
     "location": {
       "city": "London",
       "countryCode": "UK"
-    },
+    }
   },
   "work": [
     {
@@ -19,7 +19,14 @@
       "startDate": "Nov 2023",
       "endDate": "May 2025",
       "summary": "Machine Learning engineer working on CV and LLM-based use cases to drive intelligent decision-making by building and deploying robust, scalable ML models for the offshore wind energy sector.",
-      "highlights": ["Productionise ML solutions", "ML Systems design", "Computer Vision", "Sonar imagery", "Large Language Models", "Leading projects end-to-end"]
+      "highlights": [
+        "Productionise ML solutions",
+        "ML Systems design",
+        "Computer Vision",
+        "Sonar imagery",
+        "Large Language Models",
+        "Leading projects end-to-end"
+      ]
     },
     {
       "name": "Sony India Software Centre",
@@ -114,7 +121,7 @@
     }
   ],
   "interests": [
-  {
+    {
       "name": "NLP",
       "icon": "",
       "keywords": [
@@ -165,7 +172,7 @@
         "LLM Guardrails",
         "Evaluation with LLM-as-a-judge"
       ]
-  },
+    }
   ],
   "references": [
     {

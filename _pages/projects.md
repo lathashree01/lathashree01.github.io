@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Showcase of my projects.
+description: Showcase of my projects. [Not upto date yet! Check out my GitHub - https://github.com/lathashree01]
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [nlp, cv, mlops, python, sample]
 horizontal: false
 ---
 

@@ -21,8 +21,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 1 # leave blank to include all the news in the `_news` folder
-
-
 ---
 
 With over 5 years of experience in building ML solutions for multiple industries and a specialised MSc in AI/ML from Imperial College London, I excel in developing and deploying Computer Vision models and LLM-based applications for scalable and resource-constrained inference environments.

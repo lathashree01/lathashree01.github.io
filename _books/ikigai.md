@@ -16,7 +16,7 @@ status: Finished
 
 Ikigai is a profound exploration of the Japanese concept of finding purpose and meaning in life. The book delves into the four essential elements that contribute to one's Ikigai: what you love, what you are good at, what the world needs, and what you can be paid for. Through engaging anecdotes and practical exercises, the authors guide readers on a journey to discover your own Ikigai, encouraging you to lead a more fulfilling and balanced life.
 
-To be honest, I dont think I have found my Ikigai yet, but I am on the journey to find it. This book has given me the tools and insights to continue my search. I am grateful to have picked up this book and have read it. It is all my time favourite. 
+To be honest, I dont think I have found my Ikigai yet, but I am on the journey to find it. This book has given me the tools and insights to continue my search. I am grateful to have picked up this book and have read it. It is all my time favourite.
 There are so many concepts that I have learned from this book and I am sure I will keep coming back to it.
 
 ## Some of my key takeaways from the book:

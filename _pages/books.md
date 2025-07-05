@@ -1,6 +1,7 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: My Bookshelf
+description: A collection of books that I am reading, have read, or will read.
 permalink: /books/
 nav: false
 collection: books
@@ -11,3 +12,5 @@ collection: books
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
 ## Books that I am reading, have read, or will read
+
+

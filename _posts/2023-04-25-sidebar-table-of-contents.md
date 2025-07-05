@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with table of contents on a sidebar
+title: A sample post with a sidebar table of contents
 date: 2023-04-25 10:14:00-0400
 description: an example of a blog post with table of contents on a sidebar
 tags: "SystemDesign nlp"
@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-This post shows how to add a table of contents as a sidebar.
+This is a sample post to demonstrate how to add a table of contents to the sidebar of your blog posts. The table of contents will automatically generate based on the headings in the post.
 
 ## Adding a Table of Contents
 
